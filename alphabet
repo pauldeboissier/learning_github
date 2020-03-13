@@ -30,4 +30,4 @@ B = ND
 Z = QE
 J = LI
 X = ARNDCEQGHILKMFPSTWYVUO # wildcard symbol including U and O
-#X = ARNDCEQGHILKMFPSTWYV # wildcard symbol omitting U and O
+X = ARNDCEQGHILKMFPSTWYV # wildcard symbol omitting U and O
